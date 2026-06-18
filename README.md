@@ -59,8 +59,8 @@ This project demonstrates how to interface the ADC module of a PIC18F4550 microc
 
 
 ## 📸 Circuit Diagram
-![image alt](https://github.com/manubraj/PIC-Microcontroller-ADC-to-LCD-Project/blob/a4d539b627b5499f9e04a47c3be94f372bcf1327/ACESS%20GRANTED.png)
-
+ ![image](https://github.com/manubraj/PIC-Microcontroller-ADC-to-LCD-Project/blob/10dad983a4114c9e01bdb7e876d9c36342d00e6b/ADC_.png)
+ 
 ## ⚠️ Notes
 
 * The program reads the ADC result from the ADRESH register.
